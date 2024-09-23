@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Parks and Reserves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Kickapoo Valley Reserve Visitor Center" }, "geometry": { "type": "Point", "coordinates": [ -90.6274652, 43.5956834 ] } },
+{ "type": "Feature", "properties": { "Name": "Wildcat Mountain State Park" }, "geometry": { "type": "Point", "coordinates": [ -90.5741755, 43.697627 ] } },
+{ "type": "Feature", "properties": { "Name": "Sidie Hollow Park" }, "geometry": { "type": "Point", "coordinates": [ -90.9485809, 43.5402096 ] } },
+{ "type": "Feature", "properties": { "Name": "Esofea County Park" }, "geometry": { "type": "Point", "coordinates": [ -90.9750688, 43.6282865 ] } }
+]
+}

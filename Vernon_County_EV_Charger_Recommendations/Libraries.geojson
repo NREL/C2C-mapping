@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Libraries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Mc Intosh Memorial Library" }, "geometry": { "type": "Point", "coordinates": [ -90.8902362, 43.5550251 ] } },
+{ "type": "Feature", "properties": { "Name": "Lawton Memorial Library" }, "geometry": { "type": "Point", "coordinates": [ -90.6373046, 43.5750201 ] } },
+{ "type": "Feature", "properties": { "Name": "Ontario Public Library" }, "geometry": { "type": "Point", "coordinates": [ -90.5914794, 43.7239229 ] } },
+{ "type": "Feature", "properties": { "Name": "Viola Public Library" }, "geometry": { "type": "Point", "coordinates": [ -90.6684209, 43.5060389 ] } },
+{ "type": "Feature", "properties": { "Name": "Bekkum Memorial Library" }, "geometry": { "type": "Point", "coordinates": [ -90.8566786, 43.6548591 ] } },
+{ "type": "Feature", "properties": { "Name": "Knutson Memorial Library" }, "geometry": { "type": "Point", "coordinates": [ -91.013192, 43.7021989 ] } },
+{ "type": "Feature", "properties": { "Name": "Readstown Public Library" }, "geometry": { "type": "Point", "coordinates": [ -90.7604961, 43.4509445 ] } },
+{ "type": "Feature", "properties": { "Name": "De Soto Public Library" }, "geometry": { "type": "Point", "coordinates": [ -91.1986154, 43.4234308 ] } },
+{ "type": "Feature", "properties": { "Name": "Hillsboro Public Library" }, "geometry": { "type": "Point", "coordinates": [ -90.3414242, 43.6525731 ] } }
+]
+}

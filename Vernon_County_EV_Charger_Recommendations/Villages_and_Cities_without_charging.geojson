@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Villages and Cities without charging",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Stoddard", "description": null }, "geometry": { "type": "Point", "coordinates": [ -91.219270459571703, 43.664128670177199 ] } },
+{ "type": "Feature", "properties": { "Name": "Genoa", "description": null }, "geometry": { "type": "Point", "coordinates": [ -91.226026873349397, 43.574809125186498 ] } },
+{ "type": "Feature", "properties": { "Name": "Ontario", "description": null }, "geometry": { "type": "Point", "coordinates": [ -90.589226, 43.722937 ] } },
+{ "type": "Feature", "properties": { "Name": "Desoto", "description": null }, "geometry": { "type": "Point", "coordinates": [ -91.199483, 43.422863 ] } },
+{ "type": "Feature", "properties": { "Name": "Coon Valley", "description": null }, "geometry": { "type": "Point", "coordinates": [ -91.016125, 43.702353 ] } },
+{ "type": "Feature", "properties": { "Name": "Chaseburg", "description": "Very small population" }, "geometry": { "type": "Point", "coordinates": [ -91.094998, 43.65903 ] } },
+{ "type": "Feature", "properties": { "Name": "Westby", "description": null }, "geometry": { "type": "Point", "coordinates": [ -90.8584913, 43.6534931 ] } },
+{ "type": "Feature", "properties": { "Name": "La Farge", "description": null }, "geometry": { "type": "Point", "coordinates": [ -90.637374, 43.5748305 ] } },
+{ "type": "Feature", "properties": { "Name": "Viola", "description": null }, "geometry": { "type": "Point", "coordinates": [ -90.679299, 43.502173 ] } },
+{ "type": "Feature", "properties": { "Name": "Hillsboro", "description": null }, "geometry": { "type": "Point", "coordinates": [ -90.340262, 43.651087 ] } }
+]
+}
